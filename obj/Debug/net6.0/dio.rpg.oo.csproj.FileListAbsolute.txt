@@ -1,0 +1,15 @@
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\bin\Debug\net6.0\dio.rpg.oo.exe
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\bin\Debug\net6.0\dio.rpg.oo.deps.json
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\bin\Debug\net6.0\dio.rpg.oo.runtimeconfig.json
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\bin\Debug\net6.0\dio.rpg.oo.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\bin\Debug\net6.0\dio.rpg.oo.pdb
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.csproj.AssemblyReference.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.AssemblyInfoInputs.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.AssemblyInfo.cs
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.csproj.CoreCompileInputs.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\refint\dio.rpg.oo.dll
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.pdb
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\dio.rpg.oo.genruntimeconfig.cache
+C:\Users\unimed\Desktop\workspace\dio-dotnet\dio.rpg.oo\obj\Debug\net6.0\ref\dio.rpg.oo.dll
